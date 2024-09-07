@@ -119,7 +119,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/button"
-        android:onClick="onHowCourse"/>
+        android:onClick="URI"/>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
